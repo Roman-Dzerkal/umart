@@ -1,5 +1,5 @@
 name: umart
-description: "A new Flutter project."
+description: "Ukraini."
 publish_to: 'none'
 version: 0.1.0
 
@@ -16,6 +16,7 @@ dependencies:
   firebase_messaging: ^15.1.4
   flutter_bloc: ^8.1.6
   bloc: ^8.1.4
+  equatable: ^2.0.5
 
 dev_dependencies:
   flutter_test:
